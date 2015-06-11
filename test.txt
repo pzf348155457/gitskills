@@ -2,6 +2,6 @@ sdfa
 git 
 add merge
 test !
-tamade!
-merge !
+test !
+dayede!
 you can test merge!
