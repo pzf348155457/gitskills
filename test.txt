@@ -3,5 +3,5 @@ git
 add merge
 test !
 test !
-merge !
+dayede!
 you can test merge!
